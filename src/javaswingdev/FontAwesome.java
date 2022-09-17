@@ -370,6 +370,7 @@ public enum FontAwesome implements IconCode {
     LIST_OL('\uF0CB'),
     LIST_UL('\uF0CA'),
     LOCATION_ARROW('\uF124'),
+    LOGOUT('\ue9ba'),
     LOCK('\uF023'),
     LONG_ARROW_DOWN('\uF175'),
     LONG_ARROW_LEFT('\uF177'),

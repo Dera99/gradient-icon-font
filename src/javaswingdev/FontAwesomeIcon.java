@@ -60,9 +60,9 @@ public class FontAwesomeIcon {
 
     private FontAwesome icon = FontAwesome.COFFEE;
     private GradientType gradientType = GradientType.HORIZONTAL;
-    private Color color1 = new Color(127, 0, 255);
-    private Color color2 = new Color(225, 0, 255);
-    private int size = 15;
+    private Color color1 = new Color(63, 109, 217);
+    private Color color2 = new Color(63, 109, 217);
+    private int size = 20;
 
     public Icon toIcon() {
         return IconFontSwing.buildIcon(icon, size, color1, color2, gradientType);

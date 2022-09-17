@@ -511,6 +511,7 @@ public enum GoogleMaterialDesignIcon implements IconCode {
     LOCK('\uE897'),
     LOCK_OPEN('\uE898'),
     LOCK_OUTLINE('\uE899'),
+    LOGOUT('\uE9ba'),
     LOOKS('\uE3FC'),
     LOOKS_3('\uE3FB'),
     LOOKS_4('\uE3FD'),
