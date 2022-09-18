@@ -85,6 +85,7 @@ public enum FontAwesome implements IconCode {
     BOLT('\uF0E7'),
     BOMB('\uF1E2'),
     BOOK('\uF02D'),
+    BOOK_ONLINE('\uF217'),
     BOOKMARK('\uF02E'),
     BOOKMARK_O('\uF097'),
     BRAILLE('\uF2A1'),

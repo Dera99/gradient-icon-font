@@ -94,6 +94,7 @@ public enum GoogleMaterialDesignIcon implements IconCode {
     BLUR_OFF('\uE3A4'),
     BLUR_ON('\uE3A5'),
     BOOK('\uE865'),
+    BOOK_ONLINE('\uF217'),
     BOOKMARK('\uE866'),
     BOOKMARK_BORDER('\uE867'),
     BORDER_ALL('\uE228'),
