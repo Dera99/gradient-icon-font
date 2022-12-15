@@ -435,6 +435,7 @@ public enum FontAwesome implements IconCode {
     PAUSE_CIRCLE_O('\uF28C'),
     PAW('\uF1B0'),
     PAYPAL('\uF1ED'),
+    PAYMENTS('\ueF63'),
     PENCIL('\uF040'),
     PENCIL_SQUARE('\uF14B'),
     PENCIL_SQUARE_O('\uF044'),
