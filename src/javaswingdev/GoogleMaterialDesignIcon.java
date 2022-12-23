@@ -390,6 +390,7 @@ public enum GoogleMaterialDesignIcon implements IconCode {
     GRID_OFF('\uE3EB'),
     GRID_ON('\uE3EC'),
     GROUP('\uE7EF'),
+    GROUPS('\uF233'),
     GROUP_ADD('\uE7F0'),
     GROUP_WORK('\uE886'),
     G_3D_ROTATION('\uE84D'),
