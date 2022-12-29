@@ -807,6 +807,7 @@ public enum GoogleMaterialDesignIcon implements IconCode {
     STAY_PRIMARY_LANDSCAPE('\uE0D5'),
     STAY_PRIMARY_PORTRAIT('\uE0D6'),
     STOP('\uE047'),
+    STOP_CIRCLE('\uEf71'),
     STOP_SCREEN_SHARE('\uE0E3'),
     STORAGE('\uE1DB'),
     STORE('\uE8D1'),
